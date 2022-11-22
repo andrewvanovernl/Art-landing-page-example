@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  width: 10vh;
+  height: 10vh;
+justify-content: center;
+margin: auto;
+
+
+}
+
+
+.BG{
+  z-index: -1;
+}
+

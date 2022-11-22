@@ -1,0 +1,33 @@
+.mx-auto {
+font-family: 'Manrope', sans-serif;
+text-align: center;
+box-sizing: border-box;
+margin: 50px;
+padding: 50px;
+justify-content: center;
+margin-right: auto;
+margin-left: auto;
+object-fit: contain;
+margin: 0 auto;
+}
+
+
+
+  p {
+    font-weight: 600;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 50px;
+    padding: 50px;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    object-fit: contain;
+    margin: 0 auto;
+  }
+
+h1 {
+    justify-content: center;
+}
+
+
