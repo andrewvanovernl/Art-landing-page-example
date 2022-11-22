@@ -55,3 +55,15 @@
 
 }
 
+
+/* Media */
+@media screen and (max-width: 480px) {
+  .image {
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+  align-items: center;
+  }
+}
