@@ -59,8 +59,8 @@
 /* Media */
 @media screen and (max-width: 480px) {
   .image {
-    width: 50%;
-    height: 50%;
+    width: 90%;
+    height: 90%;
     justify-content: center;
     margin-right: auto;
     margin-left: auto;
