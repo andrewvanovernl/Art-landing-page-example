@@ -1,4 +1,4 @@
-This was a short landing page I made in between assignments.
+This was a short landing page I made in between assignments.  Sorry about the images I did just find free ones.
 
 
 
